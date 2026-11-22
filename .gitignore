@@ -1,0 +1,13 @@
+﻿# Large model weights & archives
+*.gguf
+*.bin
+*.safetensors
+*.7z
+*.zip
+*.tar.gz
+
+# Binaries & temp logs
+*.exe
+*.dll
+*.log
+*.tmp
